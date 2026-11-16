@@ -20,6 +20,7 @@
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
+/[Pp]rofiler[Cc]aptures/
 /[Uu]ser[Ss]ettings/
 *.log
 
